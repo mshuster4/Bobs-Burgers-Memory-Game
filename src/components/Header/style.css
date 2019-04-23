@@ -1,0 +1,33 @@
+.jumbotron {
+    padding: 15px 0px 15px 0px;
+    background-color: white;
+    margin: 15px 0px 0px 0px;
+    background-color: 
+    #99c6e7
+
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+.chalkboard {
+    margin: 15px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+    color:#fafbfd;
+    border: 10px solid #b1484f;
+    background-color: grey;
+    font-family: gooddog-new, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    margin: 0; 
+    font-size: 18px;
+}
+
+h1 {
+    margin: 0;
+}
